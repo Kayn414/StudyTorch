@@ -13,3 +13,12 @@ Will update each section when completed with full details.
 ***Linear SVM Classifier***
 
 ***MLP Classifier***
+
+
+### Project for Data Science Course
+Spotify Trending Song Predicter
+
+Rough idea is either using some clustering based approach or a time series along side RNN or LSTM networks. 
+
+- Data cleaning / EDA is completed
+- Model Selection TODO BY: 11/24
