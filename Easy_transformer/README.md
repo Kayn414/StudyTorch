@@ -1,4 +1,6 @@
-*Citations*
+## Citations
+
+```bibtex
 @misc{nanda2022transformerlens,
     title = {TransformerLens},
     author = {Neel Nanda and Joseph Bloom},
