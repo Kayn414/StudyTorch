@@ -1,15 +1,6 @@
 ## Working on Stuff
 
 
-### Project for Data Science Course
-Spotify Trending Song Predicter
-
-Rough idea is either using some clustering based approach or a time series along side RNN or LSTM networks. 
-
-- Data cleaning / EDA is completed
-- Model Selection TODO BY: 11/24
-[Collab](https://colab.research.google.com/drive/1uzzTZaYN00rqYabTPo7OPhKTLlGd5OF9?usp=sharing)
-
 Research Assignments for course:  (Some are missing bc they're kinda bad D:)
 1. [KNN, SVM, NAIVE BAYES](https://docs.google.com/document/d/1Wcl9bwMCzlEEVuO-bf3QzNre8-8HqP4mit023-0NgOI/edit?usp=sharing)
 2. [Gradient Decent](https://docs.google.com/document/d/1J58xWWkOdzHzkUMlLwbVF2vvQbuFTmClszLxD4V7S7c/edit?usp=sharing)
